@@ -1,4 +1,4 @@
-#Biodegradation Classification of Chemical Compounds 
+# Biodegradation Classification of Chemical Compounds 
 
 This project applies machine learning to classify chemical compounds as ready-biodegradable or non-ready-biodegradable using the qsar-biodeg dataset.
 
