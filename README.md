@@ -12,6 +12,7 @@ This project applies machine learning to classify chemical compounds as ready-bi
 - qsar-biodeg
 - 1055 samples
 - 41 molecular descriptors
+- Source: https://www.kaggle.com/datasets/muhammetvarl/qsarbiodegradation 
 
 ## Files 
 - biodegradation_classification.ipynb - baseline models
